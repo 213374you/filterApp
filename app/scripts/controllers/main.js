@@ -6,6 +6,7 @@ angular.module('johnUIApp')
       'HTML5 Boilerplate',
       'AngularJS',
       'Karma',
-      'Hello John'
+      'Hello John',
+      'test'
     ];
   }]);
